@@ -115,11 +115,11 @@ More technical information can be found in ARCHITECTURE.md
 
 ## Project Status
 
-STATUS      : IN DEVELOPMENT
-PLATFORM    : WEB
-FRONTEND    : NEXT.JS
-DATABASE    : POSTGRESQL
-SOURCE      : PRIVATE
+- STATUS      : IN DEVELOPMENT
+- PLATFORM    : WEB
+- FRONTEND    : NEXT.JS
+- DATABASE    : POSTGRESQL
+- SOURCE      : PRIVATE
 
 NAFRA is under active development, with new systems and improvements being added as the platform evolves.
 
@@ -137,7 +137,7 @@ The complete src is kept private to keep users from copying, cloning and stealin
 
 ---
 
-Development
+## Development
 
 Built and developed by [me](https://github.com/nhensah).
 
