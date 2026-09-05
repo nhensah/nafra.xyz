@@ -99,14 +99,46 @@ More technical information can be found in ARCHITECTURE.md
 
 ### Profiles 
 
+<img width="938" height="768" alt="Screenshot 2026-09-06 004103" src="https://github.com/user-attachments/assets/62ea4b8b-84b0-4b29-9228-5d41810b6fa0" />
+
+### Messaging
+
+<img width="916" height="810" alt="Screenshot 2026-09-06 004114" src="https://github.com/user-attachments/assets/4078a4bb-9f62-477b-8733-254e352bf656" />
 
 
+### Settings
+
+<img width="737" height="837" alt="image" src="https://github.com/user-attachments/assets/a2cac601-5a12-43de-bc4b-825d11a1cf5d" />
 
 
+---
 
+## Project Status
 
+STATUS      : IN DEVELOPMENT
+PLATFORM    : WEB
+FRONTEND    : NEXT.JS
+DATABASE    : POSTGRESQL
+SOURCE      : PRIVATE
 
+NAFRA is under active development, with new systems and improvements being added as the platform evolves.
 
+--- 
 
+## Why?
 
+NAFRA started as an opportunity to push beyond smaller projects and build a larger interconnected application. The project has given me hands-on experience with full-stack development, relational databases, authentication, API design, application architecture, state management and building systems that need to work together rather than independently. 
 
+---
+
+## Source Code
+
+The complete src is kept private to keep users from copying, cloning and stealing the build.
+
+---
+
+Development
+
+Built and developed by [me](https://github.com/nhensah).
+
+`Build -> Break -> Debug -> Improve -> Repeat`
