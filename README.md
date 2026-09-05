@@ -1,12 +1,12 @@
 # nafra.xyz
 
->>> A modern social platform built from the ground up.
+> A modern social platform built from the ground up.
 
 **Nafra** is a full-stack social platform focused on profiles, communication, customisation, customisation and interactive social features.
 
 This repository serves as the **public showcase** and documentation for the project. 
 
->>> The production source code is unobtainable for security measures, however this contains project information, technical documentation, screenshots and carefully selected examples only.
+> The production source code is unobtainable for security measures, however this contains project information, technical documentation, screenshots and carefully selected examples only.
 
 ---
 
